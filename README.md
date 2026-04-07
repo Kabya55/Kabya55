@@ -1,16 +1,61 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=Kabya55r&color=blue)
+<h1 align="center">Hi 👋, I'm Kabya Kishor Halder</h1>
+<h3 align="center">Frontend Developer | React Enthusiast 🚀</h3>
 
-<!--
-**Kabya55/Kabya55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=I+am+a+Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind;Always+Learning+New+Things+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **React Projects**
+- 🌱 I’m learning **Next.js & Backend**
+- 💬 Ask me about **React, JavaScript, Tailwind**
+- 📫 Reach me: **kabyakishor017@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,node,express,mongodb,git,github" />
+</p>
+
+---
+
+## 🔥 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,firebase,figma,postman" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kabya-kishor-halder/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/kabya55">
+  <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook" />
+   </a>
+  <a href="kabyakishor017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```js
+const kabya = {
+  code: ["JavaScript", "React", "Tailwind"],
+  goal: "Become a Full Stack Developer 🚀",
+  challenge: "Building real-world projects"
+};
+
+
