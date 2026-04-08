@@ -1,4 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=Kabya55r&color=blue)
+
+
+
+
+<img width="1536" height="456" alt="banner" src="https://github.com/user-attachments/assets/9472be4f-f31c-44ca-a23a-f9433f4af265" />
+
+
+
 <h1 align="center">Hi 👋, I'm Kabya Kishor Halder</h1>
 <h3 align="center">Frontend Developer | React Enthusiast 🚀</h3>
 
