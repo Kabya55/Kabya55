@@ -44,6 +44,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://developer-kabya.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/kabya-kishor-halder/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
