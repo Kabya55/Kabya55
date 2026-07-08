@@ -39,6 +39,15 @@
 
 ## 🛠️ Best Projects
 
+### 🏢 StartupForge - Full-Stack job post and hiring Platform
+**[Live Site](https://startup-forge-beige.vercel.app) | [Client Repository](https://github.com/Kabya55/Startup-Forge) | [Server Repository](https://github.com/Kabya55/startupforge-server)**
+- Developed a comprehensive platform to connect startup founders with talent, featuring a complete Role-Based Access Control (RBAC) system for Administrators, Founders, and Collaborators. 
+- Integrated Better Auth for secure Google social authentication and implemented Stripe API for seamless subscription package upgrades and payment processing. 
+- Built dedicated dynamic dashboards allowing admins to monitor metrics, founders to manage startup opportunities and applications, and collaborators to track application statuses. 
+- **Tech Stack:** Next.js (App Router), Tailwind CSS, Hero UI, Node.js, Express.js, MongoDB, Stripe, Better Auth, Framer Motion
+  <img width="2560" height="6422" alt="startup-forge" src="https://github.com/user-attachments/assets/50f9f058-72fb-4281-88eb-4f6a1cbce22e" />
+
+
 ### 🩺 MediQueue – Full-Stack Tutor Booking Platform
 **[Live Site](https://medi-queue-clien.vercel.app) | [Client Repository](https://github.com/Kabya55/MediQueue-clien) | [Server Repository](https://github.com/Kabya55/MediQueue-server)**
 - Built a tutor booking platform that streamlines scheduling, session management, and conflict-free bookings.
